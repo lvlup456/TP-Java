@@ -6,6 +6,12 @@ public class Rectangle {
     private Point p3;
     private Point p4;
 
+    /**
+     * deux points pour representer un rectangle
+     * private Point leftUnder;
+     * private Point rightUpper;
+     */
+
     public Point getP1() {
         return p1;
     }
