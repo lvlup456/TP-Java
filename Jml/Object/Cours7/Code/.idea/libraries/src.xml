@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../TP5/java-tp5.jar!/src" />
+      <root url="file://$PROJECT_DIR$/../TP5" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../TP5" recursive="false" type="SOURCES" />
+  </library>
+</component>

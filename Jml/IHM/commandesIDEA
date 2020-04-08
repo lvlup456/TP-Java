@@ -1,0 +1,6 @@
+
+Dans File -> Project Structure -> Libraries:
+'path to JavaFx'
+
+Dans Run -> Edit Configurations -> VM options:
+--module-path /data/Perso/Ing1/Java/Jml/Library/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml

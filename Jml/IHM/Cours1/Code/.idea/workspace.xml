@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.mylyn/.taskListIndex/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.mylyn/.taskListIndex/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.mylyn/.tasks.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.mylyn/tasks.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.junit.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.java.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.editors.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.debug.core/.launches/helloWord.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.debug.core/.launches/salut.launch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2020/1/3/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2020/1/3/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/HelloWorldBis/2020/1/3/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/HelloWorldBis/2020/1/3/refactorings.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.12.0.20190529-1916.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/.metadata/version.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/HellowWorld/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/HellowWorld/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/HellowWorld/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/HellowWorld/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/HellowWorld/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/HellowWorld/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/HellowWorld/HellowWorld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/HellowWorld/out/production/HellowWorld/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours1/HellowWorld/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours10/Code/.idea/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours10/Code/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours10/Code/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours10/Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours10/Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours10/Code/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours10/Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours10/Code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours10/Code/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours10/Code/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours10/Code/src/com/company/Paire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours10/java-tp10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/allclasses-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/allclasses.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/allpackages-index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/com/company/Main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/com/company/class-use/Main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/com/company/package-summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/com/company/package-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/com/company/package-use.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/constant-values.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/deprecated-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/element-list" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/help-doc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/index-files/index-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/index-files/index-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/external/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/images/ui-bg_glass_55_fbf9ee_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/images/ui-bg_glass_65_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/images/ui-bg_glass_75_dadada_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/images/ui-bg_glass_75_e6e6e6_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/images/ui-bg_glass_95_fef1ec_1x400.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/images/ui-bg_highlight-soft_75_cccccc_1x100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/images/ui-icons_222222_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/images/ui-icons_2e83ff_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/images/ui-icons_454545_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/images/ui-icons_888888_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/images/ui-icons_cd0a0a_256x240.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/jquery-3.3.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/jquery-migrate-3.0.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/jquery-ui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/jquery-ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/jquery-ui.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/jquery-ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/jquery-ui.structure.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/jquery-ui.structure.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/jszip-utils/dist/jszip-utils-ie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/jszip-utils/dist/jszip-utils-ie.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/jszip-utils/dist/jszip-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/jszip-utils/dist/jszip-utils.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/jszip/dist/jszip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/jquery/jszip/dist/jszip.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/member-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/member-search-index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/overview-tree.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/package-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/package-search-index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/resources/glass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/resources/x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/type-search-index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/doc/type-search-index.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/out/production/Code/META-INF/Code.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/out/production/Code/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/out/production/Code/com/company/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/out/production/Code/com/company/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/out/production/Code/com/company/Segment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/src/com/company/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/src/com/company/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/Code/src/com/company/Segment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours2/java-tp2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours3/Code/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours3/Code/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours3/Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours3/Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours3/Code/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours3/Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours3/Code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours3/Code/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours3/Code/out/production/Code/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours3/Code/out/production/Code/com/company/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours3/Code/out/production/Code/com/company/PointPolaire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours3/Code/out/production/Code/com/company/Segment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours3/Code/out/production/Code/com/company/TestPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours3/Code/out/production/Code/com/company/TestSegment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours3/Code/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours3/Code/src/com/company/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours3/Code/src/com/company/PointPolaire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours3/Code/src/com/company/Segment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours3/Code/src/com/company/TestPoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours3/Code/src/com/company/TestSegment.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours4/Code/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours4/Code/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours4/Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours4/Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours4/Code/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours4/Code/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours4/Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours4/Code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours4/Code/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours4/Code/out/production/Code/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours4/Code/out/production/Code/com/company/Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours4/Code/out/production/Code/polynome/Monome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours4/Code/out/production/Code/polynome/Polynome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours4/Code/out/production/Code/polynome/PolynomeBis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours4/Code/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours4/Code/src/com/company/Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours4/Code/src/polynome/Monome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours4/Code/src/polynome/Polynome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours4/Code/src/polynome/PolynomeBis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/.idea/artifacts/Code_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/out/artifacts/Code_jar/Code.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/out/production/Code/META-INF/Code.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/out/production/Code/Pile/PileForme.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/out/production/Code/Pile/PilesFormesAvecTableauTailleFixe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/out/production/Code/Pile/TestPileForme.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/out/production/Code/com/company/Carre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/out/production/Code/com/company/Cercle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/out/production/Code/com/company/Forme.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/out/production/Code/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/out/production/Code/com/company/TestForme.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/src/Pile/PileForme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/src/Pile/PilesFormesAvecTableauTailleFixe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/src/Pile/TestPileForme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/src/com/company/Carre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/src/com/company/Cercle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/src/com/company/Forme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/src/com/company/TestForme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/src/test/company/Carre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/src/test/company/Cercle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/src/test/company/Forme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/src/test/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours5/Code/src/test/company/TestForme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code/out/production/Code/META-INF/Code.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code/out/production/Code/Point/Point1D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code/out/production/Code/Point/Point2D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code/out/production/Code/Point/Point3D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code/out/production/Code/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code/src/Point/Point1D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code/src/Point/Point2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code/src/Point/Point3D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code2/Code2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code2/out/production/Code2/BalClass/BoiteAuLettre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code2/out/production/Code2/BalClass/Coli.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code2/out/production/Code2/BalClass/Courier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code2/out/production/Code2/BalClass/FormatLettre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code2/out/production/Code2/BalClass/Lettre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code2/out/production/Code2/BalClass/Magazine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code2/out/production/Code2/META-INF/Code2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code2/out/production/Code2/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code2/src/BalClass/BoiteAuLettre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code2/src/BalClass/Coli.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code2/src/BalClass/Courier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code2/src/BalClass/FormatLettre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code2/src/BalClass/Lettre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code2/src/BalClass/Magazine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours6/Code2/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code/.idea/libraries/src.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code/out/production/Code/META-INF/Code.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code/out/production/Code/Pile/PileForme.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code/out/production/Code/Pile/PilesFormesAvecTableauTailleFixe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code/out/production/Code/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code/out/production/Code/test/company/Carre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code/out/production/Code/test/company/Cercle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code/out/production/Code/test/company/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code/src/Pile/PileForme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code/src/Pile/PilesFormesAvecTableauTailleFixe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code/src/test/company/Carre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code/src/test/company/Cercle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code/src/test/company/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code3/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code3/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code3/Code3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code3/out/production/Code3/Cypher/Cypher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code3/out/production/Code3/Cypher/TranspoPaire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code3/out/production/Code3/Cypher/Transposition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code3/out/production/Code3/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code3/src/Cypher/Cypher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code3/src/Cypher/TranspoPaire.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code3/src/Cypher/Transposition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/Code3/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/TP5/java-tp5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours7/java-tp7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours8/Code/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours8/Code/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours8/Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours8/Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours8/Code/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours8/Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours8/Code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours8/Code/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours8/Code/out/production/Code/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours8/Code/out/production/Code/com/company/SuiteException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours8/Code/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours8/Code/src/com/company/SuiteException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours8/TP1/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours8/TP1/SuiteException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code/out/production/Code/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code/out/production/Code/com/company/MajoriteAbsolue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code/out/production/Code/com/company/MajoriteRelative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code/out/production/Code/com/company/ScrutinClosException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code/out/production/Code/com/company/Vote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code/src/com/company/MajoriteAbsolue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code/src/com/company/MajoriteRelative.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code/src/com/company/ScrutinClosException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code/src/com/company/Vote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code/untitled104.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code2/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code2/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code2/Code2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code2/src/com/company/Contact.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code2/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code2/src/com/company/NumeroTelephone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/Code2/src/com/company/Repertoir.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Cours9/java-tp9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../addrCours" beforeDir="false" afterPath="$PROJECT_DIR$/../../../addrCours" afterDir="false" />
+    </list>
+    <ignored path="JavaFxApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="24" column="55" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CSS/boutton.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="130">
+              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            </state>
+          </provider>
+          <provider editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/boutton.css" />
+        <option value="$PROJECT_DIR$/src/CSS/boutton.css" />
+        <option value="$PROJECT_DIR$/src/sample/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/libraries/lib.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1598" />
+    <option name="width" value="1717" />
+    <option name="height" value="965" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Library/javafx-sdk-11.0.2/lib" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/CSS" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="Code" />
+      <option name="VM_PARAMETERS" value="--module-path $PROJECT_DIR$/../../../Library/javafx-sdk-11.0.2/lib --add-modules javafx.controls,javafx.fxml " />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1585655743136" duration="303000" />
+      <workItem from="1585656370026" duration="1196000" />
+      <workItem from="1586334694351" duration="2700000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5501000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1920" y="-2" width="1920" height="1082" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6703755" visible="true" weight="0.19337606" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15458423" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Problems" order="9" />
+      <window_info anchor="bottom" id="Changes" order="10" />
+      <window_info anchor="bottom" id="Profiler" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="15" />
+      <window_info anchor="bottom" id="Terminal" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="JetGradle" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/sample/sample.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CSS/boutton.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="24" column="55" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

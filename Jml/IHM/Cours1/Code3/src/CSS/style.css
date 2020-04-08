@@ -1,0 +1,37 @@
+
+
+#btnDrop{
+    -fx-background-image: url("/img/blanc.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-pref-width: 100px;
+    -fx-pref-height: 100px;
+}
+
+#btnDrop:hover{
+    -fx-background-image: url("/img/drop.jpg");
+}
+
+#btnJeux{
+    -fx-background-image: url("/img/vide.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-pref-width: 100px;
+    -fx-pref-height: 100px;
+}
+
+#btnJeuxRouge{
+    -fx-background-image: url("/img/rouge.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-pref-width: 100px;
+    -fx-pref-height: 100px;
+}
+
+#btnJeuxjaune{
+    -fx-background-image: url("/img/jaune.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center;
+    -fx-pref-width: 100px;
+    -fx-pref-height: 100px;
+}
